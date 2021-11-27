@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313813144840",
+    "project_id": "jogajog-8c558",
+    "storage_bucket": "jogajog-8c558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313813144840:android:d02a08a5682f04f6b348bd",
+        "android_client_info": {
+          "package_name": "com.example.jogajog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313813144840-qa1k6eji738nv35vl6ohsu3uts17t8n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVjGcgyG3A9HVN1DOYHzooqKb03m7dJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313813144840-qa1k6eji738nv35vl6ohsu3uts17t8n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

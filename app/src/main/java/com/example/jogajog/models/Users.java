@@ -15,8 +15,8 @@ public class Users {
 
     //Signup
 
-    public Users( String mail, String password) {
-
+    public Users( String userName,String mail, String password) {
+        this.userName=userName;
         this.mail = mail;
         this.password = password;
 

@@ -3,9 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/drawable/about_us.xml" value="0.148" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/drawable/add_circle_24.xml" value="0.148" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/drawable/bg_botton.xml" value="0.148" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/drawable/bg_edit_text.xml" value="0.148" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/drawable/bg_linear.xml" value="0.148" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/drawable/bg_receiver.xml" value="0.148" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/drawable/bg_sender.xml" value="0.148" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/activity_chat_detail.xml" value="0.15" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/activity_group_chat.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/activity_settings.xml" value="0.21" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/activity_sign_in.xml" value="0.17916666666666667" />
-        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/activity_sign_up.xml" value="0.26875" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/fragment_calls.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/fragment_chat.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/fragment_status.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/samole_show_user.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/sample_receiver.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/sample_sender.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/layout/sample_show_user.xml" value="0.2153316106804479" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Jogajog/app/src/main/res/menu/menu.xml" value="0.17916666666666667" />
       </map>
     </option>
   </component>

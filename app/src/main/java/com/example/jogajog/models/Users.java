@@ -1,7 +1,7 @@
 package com.example.jogajog.models;
 
 public class Users {
-    String profilepic,userId,mail,password,userName,lastMessage;
+    String profilepic,userId,mail,password,userName,lastMessage,status;
 
     public Users(String profilepic, String userId, String mail, String password, String lastMessage) {
         this.profilepic = profilepic;
@@ -20,6 +20,14 @@ public class Users {
         this.mail = mail;
         this.password = password;
 
+    }
+
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
     }
 
     public String getProfilepic() {

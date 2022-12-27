@@ -50,6 +50,8 @@ ActivitySignUpBinding binding;
                             String id=task.getResult().getUser().getUid();
                             database.getReference().child("User").child(id).setValue(users);
                             Toast.makeText(sign_up.this, "Account Created Succssfully!", Toast.LENGTH_SHORT).show();
+                            Intent intent=new Intent(sign_up.this,SignIn.class);
+                            startActivity(intent);
                         }
                         else {
                             Toast.makeText(sign_up.this, task.getException().getMessage(), Toast.LENGTH_SHORT).show();
